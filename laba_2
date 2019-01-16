@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>			
+		<meta charset="utf-8">
+           <title>СТП Лабораторная работа №2</title>
+                <style>
+                body { background: url(6.jpg); }
+                </style>   
+		
+          <style>
+            h  {font-size: 23px;
+                 text-align: center;
+				color: darkslategray;
+					text-shadow: 1px 1px 1px black
+				 </style>
+           <style>
+             #task {font-size: 16px;
+                    color: darkslategray;}
+          </style>
+		   <style>
+             table {font-size: 20px;
+                    color: darkslategray;
+					
+          </style>
+		
+		    <style>
+            #author {font-size: 13px;
+                    color: gray;
+					text-shadow: 1px 1px 1px black }
+          </style>
+		  <style>
+            #n {font-size: 13px;
+                    color: darkslategray;
+				 }
+          </style>
+		  
+</head>
+ <body>
+       <h> <p align=center>Лабораторная работа №2<br>
+        	 Создание Web-документов на языке HTML</p>
+        	 <p align="center">Вариант 8</p>
+       <hr></h>
+             <p id=task align="center">Задание:<br>
+            Создать HTML страницу, отображающую математическую формулу идентично созданной в Microsoft Word из предложенных вариантов. <br>
+			При выполнении задания необходимо использовать таблицы, специальные символы, а также каскадные таблицы стилей (CSS).</p>
+             <table border="0" cellpadding="0" align="center">  
+
+			 
+               <tr>
+                <td></td>
+                <td id=n valign="bottom" align="center">&#8734</td>
+                <td></td> 
+                <td >&#241&#960c</td> 
+                <td></td>
+                <td>&#241&#960c</td> 
+                <td></td>
+		 </tr>
+                 <tr>
+                  <td align="right"><i>&#934(x,t)</i>=</td>
+                   <td> &#8721</td>
+                   <td>(a<sub>n</sub>cos</td>
+                     <td align="center">&#8212</td>
+                  <td>t<sub>n</sub><sup>2</sup>+b<sub>n</sub>sin</td>
+                  <td align="center" height="1px">&#8212</td>
+                  <td>t<sub>n</sub><sup>2</sup>)</td>
+		 </tr>
+                 <tr>
+                  <td></td>
+                <td id=n valign="bottom">n=1</td>
+                <td></td> 
+                <td align="center" valign="top">L</td> 
+                <td></td>
+                <td align="center" valign="top">L</td> 
+                <td></td>
+                 </tr>
+             </table>
+		
+              
+
+ 
+			
+          <p id=author align="right">Выполнил:Швайбак Е.В.<br>
+		                            Проверил: Захарьев В.А.</p>
+		  
+</body>
+
+</html>
